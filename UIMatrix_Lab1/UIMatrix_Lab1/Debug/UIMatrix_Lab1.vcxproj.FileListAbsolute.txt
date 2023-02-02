@@ -1,0 +1,3 @@
+D:\Documents\Станкин\Учёба\2 Курс\Программирование на языке высокого уровня\Лабораторные работы\UIMatrix_Lab1\UIMatrix_Lab1\Debug\UIMatrix_Lab1.vcxproj.AssemblyReference.cache
+D:\Documents\Станкин\Учёба\2 Курс\Программирование на языке высокого уровня\Лабораторные работы\UIMatrix_Lab1\UIMatrix_Lab1\Debug\UIMatrixLab1.MyForm.resources
+D:\Documents\Станкин\Учёба\2 Курс\Программирование на языке высокого уровня\Лабораторные работы\UIMatrix_Lab1\UIMatrix_Lab1\Debug\UIMatrix_Lab1.vcxproj.GenerateResource.cache

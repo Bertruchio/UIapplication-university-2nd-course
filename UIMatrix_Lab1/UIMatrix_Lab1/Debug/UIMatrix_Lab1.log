@@ -1,0 +1,8 @@
+﻿  MyForm.cpp
+D:\Documents\Станкин\Учёба\2 Курс\Программирование на языке высокого уровня\Лабораторные работы\UIMatrix_Lab1\UIMatrix_Lab1\MyForm.h(501,1): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+D:\Documents\Станкин\Учёба\2 Курс\Программирование на языке высокого уровня\Лабораторные работы\UIMatrix_Lab1\UIMatrix_Lab1\MyForm.h(502,1): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+D:\Documents\Станкин\Учёба\2 Курс\Программирование на языке высокого уровня\Лабораторные работы\UIMatrix_Lab1\UIMatrix_Lab1\MyForm.h(579,1): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+D:\Documents\Станкин\Учёба\2 Курс\Программирование на языке высокого уровня\Лабораторные работы\UIMatrix_Lab1\UIMatrix_Lab1\MyForm.h(730,1): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+D:\Documents\Станкин\Учёба\2 Курс\Программирование на языке высокого уровня\Лабораторные работы\UIMatrix_Lab1\UIMatrix_Lab1\MyForm.cpp(8,33): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  UIMatrix_Lab1.vcxproj -> D:\Documents\Станкин\Учёба\2 Курс\Программирование на языке высокого уровня\Лабораторные работы\UIMatrix_Lab1\Debug\UIMatrix_Lab1.exe
